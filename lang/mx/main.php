@@ -1,0 +1,240 @@
+<?php
+
+return [
+    'head-00' => 'Tours Deseo Caribe',
+    'head-01' => '| Magazine  | Riviera Maya ',
+    'head-02' => 'Los mejores Tours en la Riviera Maya y el caribe Mexicano, Cancun, Puerto Morelos, Tulum, Isla Mujeres. Ademas de la mejor revista digital: Deseo Caribe',
+    'head-03' => 'Tours, deseo caribe, Riviera Maya, Caribe, Mexicano, Cancun, Puerto Morelos, Tulum, Isla Mujeres, La mejor, Revista,  Digital, Deseo , Mexico, Caribbean, Vacations, Magazine, Purchases, Sales, Puerto Morelos packages, Puerto Morelos vacation packages, articles, guidebooks, review , travel, reviews, hotels, attractions, advice, deals, offers, vacation rental, vacation rentals, Puerto Morelos, Mexico vacation packages, Mexico Overview, Puerto Morelos Sell, Puerto Morelos buy, Puerto Morelos Maps, Puerto Morelos Guia, Puerto Morelos Maps',
+    'head-04' => 'Home',
+    'head-05' => 'Home',
+
+    'nav-home' => 'Inicio',
+    'nav-01' => 'Artículos',
+    'nav-02' => 'Tours',
+    'nav-03' => 'Info',
+    'nav-04' => '',
+    'nav-flag' => 'Flag_of_the_United_States.png',
+    'nav-lang' => 'English',
+    'nav-05' => 'Social Media',
+    'nav-06' => 'Vkontakte',
+    'nav-07' => 'Facebook',
+    'nav-08' => 'Instagram',
+    'nav-09' => 'Pinterest',
+    'nav-10' => 'Tik tok',
+    'nav-11' => 'Twitter',
+    'nav-12' => 'Telegram',
+    'nav-13' => 'Whatsapp',
+    
+    
+
+    'mini-banner1-01' => 'Articulos del Magazine Deseo Caribe Y Nuevos Tours',
+    'mini-banner1-02' => '',
+    'mini-banner1-03' => '',
+    'mini-banner1-04' => '',
+
+    
+
+
+    'body-item1' => 'Desarrollo de tu página WEB.',
+    'body-item2' => '👾 Será el núcleo de tu negocio. Existen millones de clientes potenciales buscando en la internet ☄️',
+    'body-item3' => 'Día de muertos en México "origen".',
+    'body-item4' => '💀 Filosofía de la dualidad vida/muerte 🌞',
+    'body-item5' => 'ZEN Emprendedor.',
+    'body-item6' => '🍸  Una guía para sobrevivir a los negocios y encontrar el equilibrio en la vida. 🌌',
+    'body-item7' => 'La importancia de proteger a los manglares.',
+    'body-item8' => '🦎 Su nombre viene del vocablo "mangrove" que significa arbol retorcido. 🐊',
+    'body-item9' => '10 Razones para visitar puerto Morelos',
+    'body-item10' => '🌴  1.- Conocer la barrera de arrecifes más grande de México... 😎',
+    'body-item11' => 'No al protector solar dentro del mar.',
+    'body-item12' => '🌊 Toneladas de substancias de protección solar terminan en los arrecifes de coral. 🌎',
+    'body-item13' => 'Agencia de viajes y Magazine de la Riviera Maya.',
+    'body-item14' => '🏄‍♀ Grupo Wetxzkxa. web, publicidad, tours.',
+    'body-item15' => 'English Verbs.',
+    'body-item16' => '👽 Los verbos mas usados en idioma Inglés.',
+    'body-item17' => 'Teocalli "3D" Maya "UXMAL"',
+    'body-item18' => '🚞 Modelo Tridimensional.',
+    'body-item19' => 'Doña Triny.',
+    'body-item20' => '🥑 Cocina recomendada en Puerto Morelos.',
+    'body-item20-1' => 'Leer más...',
+    'body-item20-2' => 'Info',
+    'body-item20-3' => '998 238 30 28',
+    
+
+    'body-item21' => 'Información de Tours:',
+
+    'body-item22' => 'Noches Calidas',
+    'body-item23' => 'Disfruta del clima.',
+    'body-item24' => 'Kukulkan',
+    'body-item25' => 'Símbolo de lo celestial y lo terrenal.',
+    'body-item26' => 'Tulum',
+    'body-item27' => 'Antes llamada Zama/Amanecer en Idioma Maya.',
+    'body-item28' => 'Disfruta de la brisa marina',
+    'body-item29' => 'Vamonos de viaje a Cancun, ven y mueve ese bum bum.',
+    'body-item30' => 'Chichen Itza',
+    'body-item31' => 'Majestuoso Templo de Kukulkan.',
+    'body-item32' => 'Tomar el radiante sol',
+    'body-item33' => 'Con las precauciones debidas.',
+    'body-item34' => 'Inconmensurable belleza',
+    'body-item35' => 'Incomparable caribe Mexicano.',
+
+    'body-item36' => 'Tour Cenote "La Noria"',
+    'body-item37' => 'Es un maravilloso cenote, uno de los más hermosos de la región, sus aguas misticas y cristalinas te invitan a refrescarte ellas, leer mas...',
+    'body-item38' => 'Tour, Jardin Botanico',
+    'body-item39' => 'El mayor y mejor jardin botanico de Quintana Roo, una experiencia mistica caminar sus senderos, leer más...',
+    'body-item40' => 'Reserva Ahora...',
+    'body-item41' => 'Tour, Cenote Azul',
+    'body-item42' => 'Majestuoso cenote milenario con una increible combinación de azules en su superficie, que te maravillara.',
+    'body-item43' => 'Tour, Crococun',
+    'body-item44' => 'Conoce especies endemicas de la región como: Cocodrilos, Venados, Iguanas, Coaties etc.',
+
+
+    'body-item44-t1' => 'Nuevo Tour',
+    'body-item44-t2' => 'TOURS',
+    'body-item44-t3' => '2022',
+    'body-item44-t4' => 'Imagen',
+    'body-item44-t5' => 'Tour',
+    'body-item44-t6' => 'Acción',
+    'body-item44-t7' => 'Semblanza',
+
+
+    'body-item44-1' => 'Acción',
+    'body-item44-2' => 'Te encontrará...',
+    'body-item44-3' => 'Ojalá...',
+    'body-item44-4' => 'Atomos.',
+    'body-item44-5' => 'Divide.',
+
+
+    'body-item45' => 'Acción',
+    'body-item46' => '"Donde haya un árbol que plantar, plántalo tú. Donde haya un error que enmendar, enmiéndalo tú. Donde haya un esfuerzo que todos esquivan, hazlo tú. Sé tú el que aparta la piedra del camino" Gabriela Mistral.',
+    'body-item47' => 'Si crees en el destino.',
+    'body-item48' => 'Sólo suelta... No persigas a nada ni a nadie, porque al perseguirlo lo ahuyentas, lo alejas. Deja que el universo ordene las energías y tú, relájate... disfruta del concierto de imágenes, de la orquesta de sabores, y de la sublime sinfonía de aromas y sonidos. Todo lo que esté destinado a no suceder, no sucederá, por más esfuerzos que se hagan. Todo lo que esté destinado a suceder, sucederá, por más esfuerzos que se hagan para impedirlo.',
+    'body-item49' => 'Amor',
+    'body-item50' => '"Ojalá encuentres con quién disfrutar las cosas simples de la vida"',
+    'body-item51' => 'Vincent Van Gogh',
+    'body-item52' => 'Dicen que cada átomo en nuestro cuerpo fue alguna vez parte de una estrella, tal vez no me voy, tal vez me voy a casa..."',
+    'body-item53' => 'y perderas.',
+    'body-item54' => 'No hay hombres y mujeres. Hay humanidad.  No hay humanos y animales.  Hay seres. No hay animales y plantas. Hay vida. No hay mi país y tu país. Hay mundo. No hay matemáticas y filosofía. Hay sabiduría. Une!',
+
+    'body-item55' => 'Monedas',
+    'body-item56' => 'M a p a',
+    'body-item57' => 'Cancun',
+    'body-item58' => 'Puerto_M',
+    'body-item59' => 'Tulum',
+
+    'body-item60' => 'TIPO DE CAMBIO',
+    'body-item61' => 'Mapa Caribeño',
+    'body-item62' => 'Clima Cancun',
+    'body-item63' => 'Clima Puerto Morelos',
+    'body-item64' => 'Clima Tulum',
+
+    'body-item65' => 'Información Importante:',
+    'body-item66' => 'El caribe Mexicano es famoso por sus hermosas playas de arena blanca frente al mar turquesa, ideales para relajarte o hacer alguna actividad acuática, como el esnórquel o el kayak, puedes elegir hospedarte desde un hostal hasta un resort de lujo., tambien hay un gran número de clubes, bares y restaurantes. Cancún es punto de partida hacia la Riviera Maya y las islas de la península.',
+    'body-item67' => 'Isla Mujeres, es una pequeña isla de seis kilómetros de largo por medio de ancho, es realmente mistica y magica. Al no ser tan grande permite recorrerla en un carrito de golf, especial para irte deteniendo en sus principales atractivos, como el faro en Punta Sur, el Acantilado del Amanecer y el "Teocalli" MAYA de la diosa Ixchel. Playa Norte de aguas tranquilas y arena fina la cual tiene la maravillosa caracteristica de no calentarse con los rayos del sol, asi que puedes caminar descalzo disfrutando su maravillosa textura.',
+    'body-item68' => 'En Puerto Morelos encontraras la Ruta de los Cenotes, la experiencia de nadar en pozos naturales, es algo que te dejara un recuerdo eterno, Puerto Morelos es un antiguo pueblo de pescadores que aún conserva la tranquilidad de antaño.',
+    'body-item69' => 'Playa del Carmen "XAMAN HA" que quiere decir aguas del Norte en el idioma Maya. El día es para gozar del mar y al caer el sol pasear por la famosa Quinta Avenida, en este lugar se concentran la mayoría de los lugares para comer, beber y divertirse.',
+    'body-item70' => 'Cozumel es la isla más grande de México, y es considerada meca del buceo, por lo que si eres amante de la actividad, estás en el lugar adecuado. Una excursión que también vale mucho la pena realizar es la del Cielo, es tan bello que el nombre lo dice todo.',
+    'body-item71' => 'Akumal. Es perfecto para pasar el día en la caleta y hacer esnórquel junto a la gran variedad de tortugas marinas, para después probar especialidades de mariscos en los locales de ambiente playero.',
+    'body-item72' => 'Tulum "ZAMA" que quiere decir amanecer en Maya. hospedarse aquí vá desde lo más lujoso hasta lo más ecológico. Además de disfrutar de las playas, visitar la zona arqueológica de Tulum, antigua ciudad amurallada enmarcada por el imponente mar del Caribe Mexicano.',
+    'body-item73' => 'Reserva de la Biósfera de "Sian Ka an" que significa regalo divino en Maya, lugar en el que se encuentra Boca Paila, entre la Laguna Muyil y el mar. Al ser una reserva natural solo hay campamentos de pescadores como hospedaje, con los servicios básicos. Es el paraíso ideal para disfrutar de la madre naturaleza y admirar la belleza increible que la rodea.',
+
+    'body-item75' => 'Reserva de la Biósfera Caribe Mexicano, Alberga el 50% del Sistema Arrecifal Mesoamericano. Se ubica al Este de la Península de Yucatán y cuenta con cinco ecorregiones marinas denominadas Plataforma del Golfo de México Sur.Se ubica al Este de la Península de Yucatán y cuenta con cinco ecorregiones marinas denominadas Plataforma del Golfo de México Sur.',
+    'body-item76' => 'Se trata de un área natural protegida de reciente creación. El decreto fue publicado en el Diario Oficial de la Federación el 7 de diciembre del 2016 y se anunció en el marco de la COP13 sobre Biodiversidad, que se llevó a cabo en México en diciembre de ese mismo año.',
+    'body-item77' => 'Se ubica al Este de la Península de Yucatán y cuenta con cinco ecorregiones marinas denominadas Plataforma del Golfo de México Sur, Plataforma del Caribe Mesoamericano, Talud del Caribe Mesoamericano, Cuenca de Yucatán y Cadena Montañosa Caimán.',
+    'body-item78' => 'Se localizada en los municipios de Isla Mujeres, Benito Juárez, Tulum y frente a las costas de Puerto Morelos, Solidaridad, Cozumel, Bacalar y Othón P. Blanco, en el estado de Quintana Roo, con una superficie total de 5,754 hectáreas.',
+    'body-item79' => 'El Caribe Mexicano se caracteriza por sus diversos hábitats: en el ambiente terrestre se encuentran selvas tropicales, como la selva mediana subperennifolia, selva mediana subcaducifolia y selvas bajas; en el ambiente costero existen dunas costeras, playas arenosas y lagunas costeras con vegetación como el pastizal inundable, petenes y manglares.',
+    'body-item80' => 'En el ambiente marino predominan lechos de pastos marinos y arrecifes de coral; destacando que todos los hábitats presentan especies de relevancia para la conservación como felinos, tortugas marinas, tiburones, rayas y peces asociados a los arrecifes coralinos, entre otros.',
+    'body-item81' => 'En esta reserva se registran aproximadamente 1,900 especies de flora y fauna terrestre y marina; alrededor de 86 especies de coral; más de 500 especies de peces, 140 de ellas asociadas a los arrecifes de coral.',
+    'body-item82' => 'Con la declaratoria de esta nueva ANP se logrará la conservación de lagunas y humedales, así como de las playas tortugueras más importantes del estado. Alberga el 50% del Sistema Arrecifal Mesoamericano, siendo esta la primera y única barrera arrecifal trasfronteriza del mundo.',
+
+    'body-item83' => 'Social Media',
+    'body-item84' => 'Profesionalmente',
+    'body-item85' => 'Diseño: Studio Wetxzka',
+    'body-item86' => '',
+    'body-item87' => 'deseocaribe.com - Todos los Derechos Reservados',
+    'body-item88' => '998 238 30 28',
+    'body-item89' => 'administrador@deseocaribe.com',
+    'body-item90' => '',
+    'body-item91' => '',
+
+
+
+    
+
+
+
+    'quotation-item001' => '',
+    'quotation-item002' => '',
+    'quotation-item003' => '',
+    'quotation-item004' => '',
+    'quotation-item005' => '',
+    'quotation-item006' => '',
+    'quotation-item007' => '',
+    'quotation-item008' => '',
+    'quotation-item009' => '',
+    'quotation-item010' => '',
+    'quotation-item011' => '',
+    'quotation-item012' => '',
+    'quotation-item013' => '',
+    'quotation-item014' => '',
+    'quotation-item015' => '',
+    'quotation-item016' => '',
+    'quotation-item017' => '',
+    'quotation-item018' => '',
+    'quotation-item019' => '',
+    'quotation-item020' => '',
+    'quotation-item021' => '',
+    'quotation-item022' => '',
+    'quotation-item023' => '',
+    'quotation-item024' => '',
+    'quotation-item025' => '',
+
+
+
+    'reservations-item001' => '',
+    'reservations-item002' => '',
+    'reservations-item003' => '',
+    'reservations-item004' => '',
+    'reservations-item005' => '',
+    'reservations-item006' => '',
+    'reservations-item007' => '',
+    'reservations-item008' => '',
+    'reservations-item009' => '',
+    'reservations-item010' => '',
+    'reservations-item011' => '',
+    'reservations-item012' => '',
+    'reservations-item013' => '',
+    'reservations-item014' => '',
+    'reservations-item015' => '',
+    'reservations-item016' => '',
+    'reservations-item017' => '',
+    'reservations-item018' => '',
+    'reservations-item019a' => '',
+    'reservations-item019b' => '',
+    'reservations-item020' => '',
+    'reservations-item021' => '',
+    'reservations-item022' => '',
+    'reservations-item023' => '',
+    'reservations-item024' => '',
+    'reservations-item025' => '',
+    'reservations-item026' => '',
+    'reservations-item027' => '',
+    'reservations-item028' => '',
+    'reservations-item029' => '',
+    'reservations-item030' => '',
+
+    'succesfully-item001' => '', 
+    'succesfully-item002' => '',
+    'succesfully-item003' => '',
+    'succesfully-item004' => '',
+    'succesfully-item005' => '',
+    'succesfully-item006' => '',
+
+
+
+    
+
+
+
+
+
+];

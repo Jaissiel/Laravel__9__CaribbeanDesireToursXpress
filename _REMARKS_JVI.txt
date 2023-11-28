@@ -1,0 +1,14 @@
+Good example , example funtional!  
+
+Totally functional  pay with mercado pago and  paypal.
+
+for CaribbeanDesire
+
+Is LARAVEL ver. 9 .  Excellent! 
+
+In Production on Express Hosting .
+
+Virtual Host : directly in www.deseocaribe.com
+
+Esta Version será editada desde la laptop Lenovo intel core i7 
+    ojo la documentación ya esta vacía dado que pondre este repositorio en estatus publico
